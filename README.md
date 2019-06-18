@@ -34,11 +34,15 @@ Kontakt
 * Zalety
 * Nasze produkty (4)
 
+
 ## Skladniki
 ##### (Skladniki do edytowania w PA )
 * Spis skladnikow okolo 30 
 
 ## Kontakt
 ##### (Produkty do edytowania w PA || Wszystko do edycji w PA)
-* dsdsds
-* Nasze produkty (4)
+* Mapa
+* Formularz
+* Adress
+
+## szczegoly skladnikow albo produktu 
