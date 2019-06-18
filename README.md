@@ -45,4 +45,4 @@ Kontakt
 * Formularz
 * Adress
 
-## szczegoly skladnikow albo produktu 
+## podstrona ze szczegolami skladniku i produktu
