@@ -2,6 +2,8 @@
 
 Sklep z suplementami
 
+http://earthpowerint.com/pl
+
 ## Podstrony
 
 ```
